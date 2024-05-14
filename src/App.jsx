@@ -4,7 +4,7 @@ import Subscribe from "./sections/Subscribe"
 import SpecialOffers from "./sections/SpecialOffers"
 import Services from "./sections/Services"
 import SuperQuality from "./sections/SuperQuality"
-import Navbar from "./sections/Navbar"
+import Navbar from "./components/Navbar"
 import PopularSections from "./sections/PopularSections"
 import Footer from "./sections/Footer"
 
